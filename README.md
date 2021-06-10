@@ -45,6 +45,7 @@
 <h2>3. Skema Basis Data</h2>
 
 <h3>3.1 <i>Entity-Relational Diagram</i></h3>
+![ERD1](https://user-images.githubusercontent.com/70185920/121459267-21f73c00-c9d5-11eb-8e27-df8a02133355.png)
 
 <h3>3.2 Diagram Skematik</h3>
 
