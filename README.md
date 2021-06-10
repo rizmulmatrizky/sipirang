@@ -46,6 +46,8 @@
 
 <h3>3.1 <i>Entity-Relational Diagram</i></h3>
 
+![ERD1](https://user-images.githubusercontent.com/70185920/121460268-dd6ca000-c9d6-11eb-8842-21e8e79d32dd.png)
+
 <h3>3.2 Diagram Skematik</h3>
 
 <h2>4. Implementasi</h2>
