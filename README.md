@@ -50,6 +50,8 @@
 
 <h3>3.2 Diagram Skematik</h3>
 
+![ERD2](https://user-images.githubusercontent.com/70185920/121667533-982e9800-cad4-11eb-8598-94383ba9f0b0.png)
+
 <h2>4. Implementasi</h2>
 
 <h3>4.1 Proses Implementasi</h3>
