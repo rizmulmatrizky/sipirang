@@ -48,17 +48,8 @@
 
 <h3>3.1 <i>Entity-Relational Diagram</i></h3>
 
-![ERD1](https://user-images.githubusercontent.com/70185920/121460268-dd6ca000-c9d6-11eb-8842-21e8e79d32dd.png)
+![ERD (FIX)](https://user-images.githubusercontent.com/70185920/122204402-49647200-cec9-11eb-8d9e-b0fd1419a0e7.png)
 
 <h3>3.2 Diagram Skematik</h3>
 
-![ERD2](https://user-images.githubusercontent.com/70185920/121667533-982e9800-cad4-11eb-8598-94383ba9f0b0.png)
-
-<h2>4. Implementasi</h2>
-
-<h3>4.1 Proses Implementasi</h3>
-
-<h3>4.2 Hasil Implementasi</h3>
-
-
-
+![Diagram Skematik](https://user-images.githubusercontent.com/70185920/122204455-55e8ca80-cec9-11eb-9d6f-6b92a0c9a15e.png)
