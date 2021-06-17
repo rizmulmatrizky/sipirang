@@ -48,7 +48,7 @@
 
 <h3>3.1 <i>Entity-Relational Diagram</i></h3>
 
-![ERD (FIX)](https://user-images.githubusercontent.com/70185920/122204402-49647200-cec9-11eb-8d9e-b0fd1419a0e7.png)
+![ERD (Sementara)](https://user-images.githubusercontent.com/70185920/122385816-6d8e8480-cf97-11eb-897a-d4342377a3a6.png)
 
 <h3>3.2 Diagram Skematik</h3>
 
